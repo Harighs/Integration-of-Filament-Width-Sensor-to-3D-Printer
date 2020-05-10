@@ -1,0 +1,29 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Hello Guys Thanks for visiting me again
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+DESCRIPTION:
+This project has to goal of printing every material regardless of what the melting temperature 
+also we can equip the printer with filament sensor. I had outsourced the sensor so this project
+will be only focusing on printer, firmware, and electronics of printers only.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Feautures:
+--> Printing is possible from 40 degree celcius to 450 degree celcius
+
+--> Usage of real time filament measuring sensor (can automatically vary the extrusion speed)
+
+--> We can able to print not only Polymers(Plastics like PLA, ABS) but also Metals (Steel,
+    Copper, and also ceramics)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+This version_1
+can print 40 to 375 degree celcius with normal usual 10k thermistor.
+for printing upto 450 (differnt thermister is needed) furthur update will be posted.
+Details of the sensor will be disclosed very soon within 1 week (17th May 2020)
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+For any questions:
+ping me on mail orelse to my LinkedIn
+-> harishankarghs@gmail.com
+-> linkedin.com/in/harishankarghs
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    Thankyou and See you in another project
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
