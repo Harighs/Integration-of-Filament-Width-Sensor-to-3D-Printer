@@ -1,7 +1,7 @@
-# Marlin 3D Printer Firmware
+# 3D Printer Firmware with Sensor Integration by Hari Shankar Govindasamy (Support of Marlin)
 <img align="right" src="Documentation/Logo/Marlin%20Logo%20GitHub.png" />
 
- Additional documentation can be found in [our wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
+For Merlin Additional documentation can be found in [our wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
 
 ## Release Branch
 
