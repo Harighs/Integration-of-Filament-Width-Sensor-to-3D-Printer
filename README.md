@@ -3,6 +3,18 @@
 
 For Merlin Additional documentation can be found in [our wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
 
+## About
+Marling is a base source code for opeating 3d printers from start to ending procedures which consist of:
+- Controlling the motion mechanism
+- Controlling the Temperatures of Nozzle by PID
+- Controlling of Dual materials suppport printings
+- Controlling of end mechanism and timing calculation
+
+Now for the huge plan to integrate a custom sensor to exhance the capability of the printer to give good output 
+we had chosen the variable feed by measuring the output for an FDM Printer.
+
+
+
 ## Release Branch
 
 The Release branch contains the latest tagged version of Marlin (currently 1.0.2-2 – October 2016). It also includes a version 1.0.1 (December 2014). Any version of Marlin before 1.0.1 (when we started tagging versions) can be collectively referred to as Marlin 1.0.0.
@@ -26,29 +38,15 @@ Marlin development is being accelerated to catch up with a long list of issues. 
 
 ## Credits
 
-The current Marlin dev team consists of:
-
- - Scott Lahteine [@thinkyhead] - English
- - Roxanne Neufeld [@Roxy-3DPrintBoard] - English
- - Andreas Hardtung [@AnHardt] - Deutsch, English
- - [@Wurstnase] - Deutsch, English
- - [@fmalpartida] - English, Spanish
- - [@CONSULitAS] - Deutsch, English
- - [@maverikou]
- - Chris Palmer [@nophead]
- - [@paclema]
- - [@epatel]
- - Erik van der Zalm [@ErikZalm]
- - David Braam [@daid]
- - Bernhard Kubicek [@bkubicek]
+From the funding of Montan University Leoben (Austria)
+ - Hari Shankar Govindasamy - Developer
+ - Santiago Diego - Support for Materials science from Polymer department
 
 More features have been added by:
-  - Alberto Cotronei [@MagoKimbra]
-  - Lampmaker,
-  - Bradley Feldman,
-  - and others...
+  - Support of Temperature sensor for housing
 
-## License
+
+## License for Marlin
 
 Marlin is published under the [GPL license](/COPYING.md) because we believe in open development. The GPL comes with both rights and obligations. Whether you use Marlin firmware as the driver for your open or closed-source product, you must keep Marlin open, and you must provide your compatible Marlin source code to end users upon request. The most straightforward way to comply with the Marlin license is to make a fork of Marlin on Github, perform your modifications, and direct users to your modified fork.
 
