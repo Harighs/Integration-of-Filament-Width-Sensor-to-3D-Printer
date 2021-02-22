@@ -30,7 +30,7 @@ we can equip the printer with a filament sensor. Each and every details will be 
 I had outsourced the sensor so this project
 will be only focusing on the printer, firmware, and electronics of printers.
 
-Future Supportis always available for this project, I will try to help you out if you contact me
+Future Support is always available for this project, I will try to help you out if you contact me
 Feautures:
 - Has the goal of the extruding materials with a filament sensor
 
