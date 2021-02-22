@@ -3,6 +3,7 @@
 
 For Merlin Additional documentation can be found in [our wiki](https://github.com/MarlinFirmware/Marlin/wiki/Main-Page).
 
+
 ## About
 Marling is a base source code for opeating 3d printers from start to ending procedures which consist of:
 - Controlling the motion mechanism
@@ -13,6 +14,17 @@ Marling is a base source code for opeating 3d printers from start to ending proc
 Now for the huge plan to integrate a custom sensor to exhance the capability of the printer to give good output 
 we had chosen the variable feed by measuring the output for an FDM Printer.
 
+## Credits and Thanks to:
+Montan University Leoben - Austria
+Department of Additive Manufacturing and Polymer Technology
+
+Developer Credits:
+ - Hari Shankar Govindasamy - Developer (Myself)
+ - Santiago Diego PHD from Montan University - Support for Materials science from Polymer department
+ - Prof. Joamin (Habilitate from Montan University)
+
+More features have been added by:
+  - Support of Temperature sensor for housing
 
 
 ## Release Branch
@@ -35,15 +47,6 @@ Marlin development is being accelerated to catch up with a long list of issues. 
 [![Travis Build Status](https://travis-ci.org/MarlinFirmware/Marlin.svg)](https://travis-ci.org/MarlinFirmware/Marlin)
 
 ##### [RepRap.org Wiki Page](http://reprap.org/wiki/Marlin)
-
-## Credits
-
-From the funding of Montan University Leoben (Austria)
- - Hari Shankar Govindasamy - Developer
- - Santiago Diego - Support for Materials science from Polymer department
-
-More features have been added by:
-  - Support of Temperature sensor for housing
 
 
 ## License for Marlin
