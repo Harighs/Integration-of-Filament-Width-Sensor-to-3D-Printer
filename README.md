@@ -23,9 +23,6 @@ Developer Credits:
  - Santiago Diego PHD from Montan University - Support for Materials science from Polymer department
  - Prof. Joamin (Habilitate from Montan University)
 
-More features have been added by:
-  - Support of Temperature sensor for housing
-
 ## DESCRIPTION
 This project has the goal of printing every material regardless of varied diameter along with the printing.
 "PERFECTLY USEFUL IF you're MAKING YOUR OWN FILAMENT OR RECYCLING YOUR OLD MATERIALS AND MAKING FILAMENT OUT OF IT"
