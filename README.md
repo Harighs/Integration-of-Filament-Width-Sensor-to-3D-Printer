@@ -14,7 +14,7 @@ Marling is a base source code for opeating 3d printers from start to ending proc
 Now for the huge plan to integrate a custom sensor to exhance the capability of the printer to give good output 
 we had chosen the variable feed by measuring the output for an FDM Printer.
 
-## Credits and Thanks to:
+## Credits and Thanks to
 Montan University Leoben - Austria
 Department of Additive Manufacturing and Polymer Technology
 
@@ -26,6 +26,28 @@ Developer Credits:
 More features have been added by:
   - Support of Temperature sensor for housing
 
+## DESCRIPTION
+This project has the goal of printing every material regardless of varied diameter along with the printing.
+"PERFECTLY USEFUL IF you're MAKING YOUR OWN FILAMENT OR RECYCLING YOUR OLD MATERIALS AND MAKING FILAMENT OUT OF IT"
+we can equip the printer with a filament sensor. Each and every details will be updated for each version of printers and different motherboards.
+I had outsourced the sensor so this project
+will be only focusing on the printer, firmware, and electronics of printers.
+
+Future Supportis always available for this project, I will try to help you out if you contact me
+Feautures:
+- Has the goal of the extruding materials with a filament sensor
+
+- All details of Electronics, Hardware, Software and Procedures are elaborated and futuring full support if needed for you
+
+- We are able to use normal usual thermistor which your're using now with your printer 
+
+Thank you...
+- Printing is possible from 40 degree celcius to 450 degree celcius
+
+- Usage of real time filament measuring sensor (can automatically vary the extrusion speed)
+
+- We can able to print not only Polymers(Plastics like PLA, ABS) but also Metals (Steel,
+    Copper, and also ceramics)
 
 ## Release Branch
 
